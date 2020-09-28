@@ -21,3 +21,4 @@ Hey there this is pyu 👋
 + [Github](https://github.com/is-pyu)
 + [Twitter](https://twitter.com/is_pyu_)
 + [Spotify](https://open.spotify.com/user/31ep4pzl33za4teycfl7bvuuleq4?si=RI2nxjjQTwm_MPhTxfvc7Q)
++ Discord : is_pyu_#7597
