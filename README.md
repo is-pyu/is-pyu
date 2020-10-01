@@ -9,7 +9,7 @@ Hey there this is pyu 👋
 	+ [c](https://c.pyudi.ml) : cytus related tools made by me
 	+ [nf](https://tree.pyudi.ml/nf.html)/[wf](https://tree.pyudi.ml/wf.html) : Numberfighter and Wordfighter
 + [TP99.99_Head](https://github.com/is-pyu/TP99.99_Head) : a discord bot related to cytus
-+ [cnsh_files](https://github.com/is-pyu/cnsh_files) : school Information Science files
++ [cnsh_files](https://github.com/is-pyu/cnsh_files) : school related files
 
 ### Github Status
 
